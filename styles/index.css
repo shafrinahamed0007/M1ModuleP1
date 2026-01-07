@@ -1,0 +1,16 @@
+/* google fonts css */
+
+
+.work-sans-fonts {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+
+
+/* Shared Style */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
